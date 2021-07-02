@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/untitled38.dir/exercicioDispersal.cpp.o"
+  "CMakeFiles/untitled38.dir/exerciciomMeaning.cpp.o"
   "untitled38"
   "untitled38.pdb"
 )

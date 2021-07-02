@@ -3,4 +3,4 @@ project(untitled38)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(untitled38 exercicioDispersal.cpp)
+add_executable(untitled38 exercicioDispersal.cpp exerciciomMeaning.cpp)

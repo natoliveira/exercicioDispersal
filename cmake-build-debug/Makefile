@@ -170,6 +170,33 @@ exercicioDispersal.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled38.dir/build.make CMakeFiles/untitled38.dir/exercicioDispersal.cpp.s
 .PHONY : exercicioDispersal.cpp.s
 
+exerciciomMeaning.o: exerciciomMeaning.cpp.o
+
+.PHONY : exerciciomMeaning.o
+
+# target to build an object file
+exerciciomMeaning.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled38.dir/build.make CMakeFiles/untitled38.dir/exerciciomMeaning.cpp.o
+.PHONY : exerciciomMeaning.cpp.o
+
+exerciciomMeaning.i: exerciciomMeaning.cpp.i
+
+.PHONY : exerciciomMeaning.i
+
+# target to preprocess a source file
+exerciciomMeaning.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled38.dir/build.make CMakeFiles/untitled38.dir/exerciciomMeaning.cpp.i
+.PHONY : exerciciomMeaning.cpp.i
+
+exerciciomMeaning.s: exerciciomMeaning.cpp.s
+
+.PHONY : exerciciomMeaning.s
+
+# target to generate assembly for a file
+exerciciomMeaning.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled38.dir/build.make CMakeFiles/untitled38.dir/exerciciomMeaning.cpp.s
+.PHONY : exerciciomMeaning.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -182,6 +209,9 @@ help:
 	@echo "... exercicioDispersal.o"
 	@echo "... exercicioDispersal.i"
 	@echo "... exercicioDispersal.s"
+	@echo "... exerciciomMeaning.o"
+	@echo "... exerciciomMeaning.i"
+	@echo "... exerciciomMeaning.s"
 .PHONY : help
 
 

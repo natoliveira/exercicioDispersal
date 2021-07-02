@@ -3,3 +3,5 @@
 
 CMakeFiles/untitled38.dir/exercicioDispersal.cpp.o: ../exercicioDispersal.cpp
 
+CMakeFiles/untitled38.dir/exerciciomMeaning.cpp.o: ../exerciciomMeaning.cpp
+

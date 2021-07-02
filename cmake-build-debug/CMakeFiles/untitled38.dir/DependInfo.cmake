@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/nat/CLionProjects/untitled38/exercicioDispersal.cpp" "/Users/nat/CLionProjects/untitled38/cmake-build-debug/CMakeFiles/untitled38.dir/exercicioDispersal.cpp.o"
+  "/Users/nat/CLionProjects/untitled38/exerciciomMeaning.cpp" "/Users/nat/CLionProjects/untitled38/cmake-build-debug/CMakeFiles/untitled38.dir/exerciciomMeaning.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
