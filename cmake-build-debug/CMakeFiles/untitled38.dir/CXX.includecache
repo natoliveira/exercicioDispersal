@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nat/CLionProjects/untitled38/exercicioDispersal.cpp
+iostream
+-
+vector
+-
+list
+-
+numeric
+-
+cmath
+-
+
